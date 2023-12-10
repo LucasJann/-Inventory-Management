@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>book</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>2</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <short_description>Answer your questions with our artificial intelligence</short_description>
+        <size>md</size>
+        <sp_column display_value="3">e1b449c9974ff510d46b5c900153af69</sp_column>
+        <sp_page display_value="form">ed5f8ec347730200ba13a5554ee49046</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 18:59:02</sys_created_on>
+        <sys_id>a9b449c9974ff510d46b5c900153af6b</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Bruce Artificial Intelligence</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_update_name>sp_instance_link_a9b449c9974ff510d46b5c900153af6b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:32:11</sys_updated_on>
+        <title>Bruce Artificial Intelligence</title>
+        <type>url</type>
+        <url>www.aoopclouddemo4.service-now.com/bruce</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=a9b449c9974ff510d46b5c900153af6b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</application>
+        <file_path/>
+        <instance_id>e5fde906dbd717801ddcf22ebf9619c6</instance_id>
+        <instance_name>dev65145</instance_name>
+        <name>sp_instance_link_a9b449c9974ff510d46b5c900153af6b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;book&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;2&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category display_value="Can We Help You?"&gt;e15706fc0a0a0aa7007fc21e1ab70c2f&lt;/sc_category&gt;&lt;short_description&gt;Answer your questions with our artificial intelligence&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;e1b449c9974ff510d46b5c900153af69&lt;/sp_column&gt;&lt;sp_page display_value="form"&gt;ed5f8ec347730200ba13a5554ee49046&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-09 18:59:02&lt;/sys_created_on&gt;&lt;sys_id&gt;a9b449c9974ff510d46b5c900153af6b&lt;/sys_id&gt;&lt;sys_mod_count&gt;10&lt;/sys_mod_count&gt;&lt;sys_name&gt;Bruce Artificial Intelligence&lt;/sys_name&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2"&gt;1a18a58097c7f110d46b5c900153af6a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;1a18a58097c7f110d46b5c900153af6a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_a9b449c9974ff510d46b5c900153af6b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-09 21:32:11&lt;/sys_updated_on&gt;&lt;title&gt;Bruce Artificial Intelligence&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;www.aoopclouddemo4.service-now.com/bruce&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a9b449c9974ff510d46b5c900153af6b"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1439151796</payload_hash>
+        <record_name>Bruce Artificial Intelligence</record_name>
+        <reverted_from/>
+        <source>9476886497077510d46b5c900153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 21:32:11</sys_created_on>
+        <sys_id>19c7290597033910d46b5c900153af5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c507ebb560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:32:11</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>ddc72905fc033910d24648796523535d</update_guid>
+        <update_guid_history>ddc72905fc033910d24648796523535d:-1439151796,59c7290597033910b9bac8ae7ce6d63a:-1391181073,8fb7e5050f03391041a78840138a9851:1162824621,0fb7e50515033910b613ebe332e02b4b:-1391181073,beb7e50537033910ef7b85056dbadb04:1162824621,fab76981a30339102a0c98de2a726d3e:-1391181073,80a72181e5033910c5203827512ee8bc:1162824621,4375e9412e0339100c02cb6c51b34f76:-1688083574,54452141be03391021314009bec5c0a4:883354226,a9c6418df24ff51064df394940c0cb57:419995844,61b449c9684ff510ca1850e8c4d0986d:1335893029</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bruce Artificial Intelligence">e3c7e50597033910d46b5c900153af5b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 21:32:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>ca6aad8c13294c86a1353d1cdff203a4</sys_id>
+        <sys_metadata>a9b449c9974ff510d46b5c900153af6b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bruce Artificial Intelligence</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_scope_delete display_value="">01f43f3ce10646c1813a3fb58de43a09</sys_scope_delete>
+        <sys_update_name>sp_instance_link_a9b449c9974ff510d46b5c900153af6b</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_a9b449c9974ff510d46b5c900153af6b">19c7290597033910d46b5c900153af5e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:32:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

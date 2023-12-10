@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph>home</glyph>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Bruce</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="Gestão Menu">197ce8cd97cbf510d46b5c900153aff9</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:49:59</sys_created_on>
+        <sys_id>4a647409970ff510d46b5c900153af3b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Bruce</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_4a647409970ff510d46b5c900153af3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:52:59</sys_updated_on>
+        <table/>
+        <type>url</type>
+        <url>https://www.duolingo.com/</url>
+        <url_target>_blank</url_target>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=4a647409970ff510d46b5c900153af3b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</application>
+        <file_path/>
+        <instance_id>e5fde906dbd717801ddcf22ebf9619c6</instance_id>
+        <instance_name>dev65145</instance_name>
+        <name>sp_rectangle_menu_item_4a647409970ff510d46b5c900153af3b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition/><display_1/><display_2/><display_date/><filter/><glyph>home</glyph><hint/><kb_article/><kb_category/><kb_topic/><label>Bruce</label><order>100</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page/><sp_rectangle_menu display_value="Gestão Menu">197ce8cd97cbf510d46b5c900153aff9</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 17:49:59</sys_created_on><sys_id>4a647409970ff510d46b5c900153af3b</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Bruce</sys_name><sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope><sys_update_name>sp_rectangle_menu_item_4a647409970ff510d46b5c900153af3b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 17:52:59</sys_updated_on><table/><type>url</type><url>https://www.duolingo.com/</url><url_target>_blank</url_target></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=4a647409970ff510d46b5c900153af3b"/></record_update>]]></payload>
+        <payload_hash>1877886637</payload_hash>
+        <record_name>Bruce</record_name>
+        <reverted_from/>
+        <source>9476886497077510d46b5c900153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:52:59</sys_created_on>
+        <sys_id>82953c09970ff510d46b5c900153afa0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4fb60a070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:52:59</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>4a953c09e60ff5106de9f16f9691ce9f</update_guid>
+        <update_guid_history>4a953c09e60ff5106de9f16f9691ce9f:1877886637,e0553c09b70ff5103070e3968acae00b:1971615665,dee4b449ff0ff510e1c6c3730681272c:-1888712239</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Bruce">38e5bc49970ff510d46b5c900153af2b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 17:54:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>47f0064654884974bea029ad09911419</sys_id>
+        <sys_metadata>4a647409970ff510d46b5c900153af3b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Bruce</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_scope_delete display_value="">01f43f3ce10646c1813a3fb58de43a09</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_4a647409970ff510d46b5c900153af3b</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_4a647409970ff510d46b5c900153af3b">82953c09970ff510d46b5c900153afa0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 17:54:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

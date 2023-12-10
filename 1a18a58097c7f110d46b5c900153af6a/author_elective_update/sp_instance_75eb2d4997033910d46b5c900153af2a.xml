@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">a5b449c9974ff510d46b5c900153af64</sp_column>
+        <sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 21:50:15</sys_created_on>
+        <sys_id>75eb2d4997033910d46b5c900153af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_update_name>sp_instance_75eb2d4997033910d46b5c900153af2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:50:15</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=75eb2d4997033910d46b5c900153af2a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</application>
+        <file_path/>
+        <instance_id>e5fde906dbd717801ddcf22ebf9619c6</instance_id>
+        <instance_name>dev65145</instance_name>
+        <name>sp_instance_75eb2d4997033910d46b5c900153af2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="2">a5b449c9974ff510d46b5c900153af64</sp_column><sp_widget display_value="My Requests">8cc0df25875023000f220cf888cb0bb5</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-09 21:50:15</sys_created_on><sys_id>75eb2d4997033910d46b5c900153af2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope><sys_update_name>sp_instance_75eb2d4997033910d46b5c900153af2a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-09 21:50:15</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=75eb2d4997033910d46b5c900153af2a"/></record_update>]]></payload>
+        <payload_hash>-703286507</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9476886497077510d46b5c900153affc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 21:50:15</sys_created_on>
+        <sys_id>39eb2d4997033910d46b5c900153af2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c508f45270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:50:15</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>7deb2d49a10339100e7acdfc9c06d32b</update_guid>
+        <update_guid_history>7deb2d49a10339100e7acdfc9c06d32b:-703286507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">67aca94997033910d46b5c900153af1b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-09 21:53:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2b0fd3b451fc44caa2c5df0be67d7cc9</sys_id>
+        <sys_metadata>75eb2d4997033910d46b5c900153af2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_1259623_gest_o_2">1a18a58097c7f110d46b5c900153af6a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">1a18a58097c7f110d46b5c900153af6a</sys_scope>
+        <sys_scope_delete display_value="">01f43f3ce10646c1813a3fb58de43a09</sys_scope_delete>
+        <sys_update_name>sp_instance_75eb2d4997033910d46b5c900153af2a</sys_update_name>
+        <sys_update_version display_value="sp_instance_75eb2d4997033910d46b5c900153af2a">39eb2d4997033910d46b5c900153af2c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-09 21:53:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
